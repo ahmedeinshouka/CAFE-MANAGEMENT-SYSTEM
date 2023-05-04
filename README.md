@@ -1,2 +1,2 @@
 # CAFE-MANAGEMENT-SYSTEM
-the zip comprassed file is containing updating
+the cafemanagementsystem zip comprassed file is containing updating
